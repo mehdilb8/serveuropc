@@ -1,0 +1,17 @@
+{
+  "name": "generateurtemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Generateurtemp.js",
+  "scripts": {
+    "start": "node Generateurtemp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-opcua": "^2.120.0",
+    "opcua": "^1.0.0"
+  }
+}
